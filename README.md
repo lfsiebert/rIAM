@@ -66,9 +66,9 @@ import time
 
 SST and mixed layer  and bathymetry depth: https://data.marine.copernicus.eu/product/NWSHELF_MULTIYEAR_PHY_004_009/services
 
-compare to measurments: https://www.imr.no/forskning/forskningsdata/stasjoner/index.html?utm_source=chatgpt.com
+compare to measurments: https://www.imr.no/forskning/forskningsdata/stasjoner/index.html
 https://www.imr.no/forskning/forskningsdata/stasjoner/view/initdownload
-https://www.imr.no/forskning/forskningsdata/stasjoner/view?station=Ytre+Utsira&utm_source=chatgpt.com
+https://www.imr.no/forskning/forskningsdata/stasjoner/view?station=Ytre%20Utsira
 
 
 https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Moorings/Station_M.html
