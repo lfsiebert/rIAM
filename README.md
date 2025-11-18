@@ -63,8 +63,10 @@ import time
 | RSS CCMP Monthly 10 Meter Surface Winds | 188 nc files `CCMP_Wind_Analysis_201001_monthly_mean_V03.1_L4.nc` | [EarthData](https://podaac.jpl.nasa.gov/dataset/CCMP_WINDS_10MMONTHLY_L4_V3.1) |
 
 | NPP Data | `cmems_nwshelf_npp_2000_2024` | [Copernicus Marine Service](https://data.marine.copernicus.eu/product/NWSHELF_MULTIYEAR_BGC_004_011/services) | 
+https://data.marine.copernicus.eu/product/ARCTIC_MULTIYEAR_BGC_002_005/download?dataset=cmems_mod_arc_bgc_my_ecosmo_P1M_202105
 
 SST and mixed layer  and bathymetry depth: https://data.marine.copernicus.eu/product/NWSHELF_MULTIYEAR_PHY_004_009/services
+MLD mike station: https://doi.org/10.48670/moi-00007 https://data.marine.copernicus.eu/product/ARCTIC_MULTIYEAR_PHY_002_003/description
 
 compare to measurments: https://www.imr.no/forskning/forskningsdata/stasjoner/index.html
 https://www.imr.no/forskning/forskningsdata/stasjoner/view/initdownload
