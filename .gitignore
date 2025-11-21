@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 
 data/raw/
+code/02_download_raw_data.ipynb
